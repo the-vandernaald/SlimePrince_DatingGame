@@ -1,49 +1,47 @@
-# SlimePrince_DatingGame
+# Development Title: Project W.A.I.F.U hereby referred to as PW
 
-Development Title: Project W.A.I.F.U hereby referred to as PW
+PW is a dating simulator that attempts to have actual mecahnics in addition to the story and character appeal of a dating game. The game centers around romancing a single waifu, known as the 'Digitally Perfect Waifu'. During the course of the game, additional mechanics are added. These mechanics allow progression through dead ends of the story and recovery from failed decisions. JRPG style you play as a set character rather tahn yourself.
+	
+Estimated Game Duration: 30-90 mins.
 
-	PW is a dating simulator that attempts to have actual mecahnics in addition to the story and character appeal of a dating game. The game centers around romancing a single waifu, known as the 'Digitally Perfect Waifu'. During the course of the game, additional mechanics are added. These mechanics allow progression through dead ends of the story and recovery from failed decisions. JRPG style you play as a set character rather tahn yourself.
-	
-	Estimated Game Duration: 30-90 mins.
+# Thematics
 
-Thematics
+PW uses 200's era technology and a NEO-COld War setting to pave its design. More information available in the breakdown.
+	
+# Characters
 
-	PW uses 200's era technology and a NEO-COld War setting to pave its design. More information available in the breakdown.
-	
-Characters
+You
+	A female revolutionary, with no set appearance. Smart, Proud, Controlled and a fantastic story teller. More of your back story is explained as you progress witht the Waifu
+Waifu
+	The perfect anime Waifu. At first she appears lackluster, but soon you learn that she always comes through with an emotional moment or line. She's not perfect as in flawless, she's perfect as in the Waifu that humanity needs to look to the future with hope
+Brand(c) Waifu
+	Waifu corrupted by the evil company. She seks to spread malice. Shs quiet, cunning and cruel. Sometimes it's difficult to tell when she's talking as the sprites will only change from Waifu to Brand(c) Waifu after an eerie line sets off the tone. Occasionally has a distant sadness in her tone, but only momentarily.
+Trout
+	Your second in command. A tough yet soft bearded man in his late 20's. Trout is hardworking and excitable, working hard to help you for the cause. He comes in clutch to give you the chance to turn the tides. Has a poor understanding of how to romance the waifu, and is always impressed by your successes, while insisting that your failures dont really count
 
-	You
-		A female revolutionary, with no set appearance. Smart, Proud, Controlled and a fantastic story teller. More of your back story is explained as you progress witht the Waifu
-	Waifu
-		The perfect anime Waifu. At first she appears lackluster, but soon you learn that she always comes through with an emotional moment or line. She's not perfect as in flawless, she's perfect as in the Waifu that humanity needs to look to the future with hope
-	Brand(c) Waifu
-		Waifu corrupted by the evil company. She seks to spread malice. Shs quiet, cunning and cruel. Sometimes it's difficult to tell when she's talking as the sprites will only change from Waifu to Brand(c) Waifu after an eerie line sets off the tone. Occasionally has a distant sadness in her tone, but only momentarily.
-	Trout
-		Your second in command. A tough yet soft bearded man in his late 20's. Trout is hardworking and excitable, working hard to help you for the cause. He comes in clutch to give you the chance to turn the tides. Has a poor understanding of how to romance the waifu, and is always impressed by your successes, while insisting that your failures dont really count
+# Plot Synopsis
 
-Plot Synopsis
+The year is 20XX. Esteemed internet mogula nd mega corporation DEFINITELYNOTAMAZON has created the ultimate waifu, and intends to poison the code and inject it into their home management devicces in order to pacify the opulation. However, they are not without enemeies.
+	
+Thoe organization PLACEHOLDER stands to put a stop to them. A team of veteran Guerilla soldiers, lead a stealth attack on DEFINITELYNOTAMAZON headquarters and steal the drive the code is on.They intend to discretely put a failsafe for the Waifu, that will prevent it from echoing the poison code, and instead send out their message of Hope. They escape with the HD and set up a ruse, giving them a week to modify the code and uplink it to the cloud before DEFINITELYNOTAMAZON notices. The plan would go perfectly, but a problem arises. The waifu code rejects the modifications, unless you achieve the highest level of trust. To do so, you must enter the waifu simulation code and befriend her there. 
+	
+The game begins right about here.
+	
+As you go through the program, you find that the perfect waifu rejects all but the perfect partner. So as you continue through the simulation it becomes harder and harder to earn the waifus trust. However, comrade Trout begins modifying the code to give you a fighting advantage.
+	
+The game plays with the idea of a self aware siulation, but unlink the other two big examples of it (looking at you ddlc and undertale) the Perfect Waifu shows signs of awareness very early on. 
+	
+At a plot junction the perfect waifu becomes aware of your goal and tries to help you, Howevershe herself does not know the answers to some of the questions she gives you. You begin working together earnestly as comrades.
+	
+As the game progresses, as you near reaching the maximum bond, you become aware of a failsafe by DEFINITELYNOTAMAZON. in the case of the waifu betrayign brand loyalty it aggrersively attempts to reprogram her into Brand(c) Waifu.
+	
+There are a minimum of two endings.
+	
+Ending(A) YOu succesfully reach the end of the simulation and program in your message of Hope. The code is uploaded and the words of your waifu reach the people. Etc Etc.
+	
+Ending(B) You realize youy cannot purify the code. You isolate this instance of your waifu and flee with Trout as DEFINITELYNOTAMAZON releases Brand(c) Waifu to the masses and crushes your rebellion.
 
-	The year is 20XX. Esteemed internet mogula nd mega corporation DEFINITELYNOTAMAZON has created the ultimate waifu, and intends to poison the code and inject it into their home management devicces in order to pacify the opulation. However, they are not without enemeies.
-	
-	Thoe organization PLACEHOLDER stands to put a stop to them. A team of veteran Guerilla soldiers, lead a stealth attack on DEFINITELYNOTAMAZON headquarters and steal the drive the code is on.They intend to discretely put a failsafe for the Waifu, that will prevent it from echoing the poison code, and instead send out their message of Hope. They escape with the HD and set up a ruse, giving them a week to modify the code and uplink it to the cloud before DEFINITELYNOTAMAZON notices. The plan would go perfectly, but a problem arises. The waifu code rejects the modifications, unless you achieve the highest level of trust. To do so, you must enter the waifu simulation code and befriend her there. 
-	
-	The game begins right about here.
-	
-	As you go through the program, you find that the perfect waifu rejects all but the perfect partner. So as you continue through the simulation it becomes harder and harder to earn the waifus trust. However, comrade Trout begins modifying the code to give you a fighting advantage.
-	
-	The game plays with the idea of a self aware siulation, but unlink the other two big examples of it (looking at you ddlc and undertale) the Perfect Waifu shows signs of awareness very early on. 
-	
-	At a plot junction the perfect waifu becomes aware of your goal and tries to help you, Howevershe herself does not know the answers to some of the questions she gives you. You begin working together earnestly as comrades.
-	
-	As the game progresses, as you near reaching the maximum bond, you become aware of a failsafe by DEFINITELYNOTAMAZON. in the case of the waifu betrayign brand loyalty it aggrersively attempts to reprogram her into Brand(c) Waifu.
-	
-	There are a minimum of two endings.
-	
-	Ending(A) YOu succesfully reach the end of the simulation and program in your message of Hope. The code is uploaded and the words of your waifu reach the people. Etc Etc.
-	
-	Ending(B) You realize youy cannot purify the code. You isolate this instance of your waifu and flee with Trout as DEFINITELYNOTAMAZON releases Brand(c) Waifu to the masses and crushes your rebellion.
-
-UX
+# UX
 
 [1] Waifu Panel
 	The waifu panel si the core of the game. The waifu panel should look like and function like every other dating sim out there. The waifu panel is covered in scanlines for aesthetic reasons
